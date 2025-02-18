@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 47b7c32e09ee015469596f6544a2ca1b
+guid: 4c2b17552899ed346ac182197643cf7b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3019424127853119141
-    second: line_0
+      213: 3800197533923593476
+    second: Icon_weapon_Mortar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: line_0
+      name: Icon_weapon_Mortar_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 700
-        height: 18
+        x: 18
+        y: 7
+        width: 208
+        height: 217
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b593219d0c9d816d0800000000000000
-      internalID: -3019424127853119141
+      spriteID: 40dc4d5d5830db430800000000000000
+      internalID: 3800197533923593476
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      line_0: -3019424127853119141
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
